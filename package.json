@@ -1,0 +1,19 @@
+{
+  "name": "projectgt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bhimini/TestRepo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bhimini/TestRepo/issues"
+  },
+  "homepage": "https://github.com/bhimini/TestRepo#readme"
+}
